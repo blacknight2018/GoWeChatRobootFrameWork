@@ -2,7 +2,7 @@
 
 目前只支持文本消息的收发
 
-Dll2 是Patch.dll 的代码
+Dll2 是Patch.dll 的代码 - Visual Studio 2019
 WeChat2.exe 会自动加载Patch.dll
 
 步骤:
