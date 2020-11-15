@@ -1,6 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
-  pch.cpp
-  dllmain.cpp
-    正在创建库 C:\Program Files (x86)\Tencent\WeChat\Patch.lib 和对象 C:\Program Files (x86)\Tencent\WeChat\Patch.exp
-Patch.exp : warning LNK4070: .EXP 中的 /OUT:Dll2.dll 指令与输出文件名“C:\Program Files (x86)\Tencent\WeChat\Patch.dll”不同；忽略指令
-  Dll2.vcxproj -> C:\Program Files (x86)\Tencent\WeChat\Patch.dll
